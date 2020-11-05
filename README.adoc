@@ -1,0 +1,28 @@
+
+== 開発の流れ
+下記の流れで行う
+
+=== ブランチの切り方
+developブランチからfeatureブランチを切る
+ブランチ名は<ChapterXX>/<content>
+（例）Chapter01/fix:1_4
+
+=== プルリクエスト
+プルリクエストを出し、ステータスをfinishedにする→slackでRv依頼し、ピン留めする
+1：他開発者によるRv→OKであればLGTMスタンプを押す
+2：developブランチにマージする
+
+RvOKの基準
+xxxx
+
+=== ブランチモデル
+基本はmaster,develop,featureで管理
+
+=== 参考文献
+参考文献がある場合は、参考文献を追記してマージする。
+
+
+== Try with Gitpod
+
+image:https://gitpod.io/button/open-in-gitpod.svg[Open in Gitpod, link=https://gitpod.io/#https://github.com/h1romas4/asciidoctor-gradle-template]
+

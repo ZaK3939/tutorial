@@ -1,0 +1,29 @@
+include::../attribute.adoc[]
+
+[[introduction]]
+== はじめに
+
+近年、金融機関でのテクノロジーに関する関心は高まっております。
+本チュートリアルでは、金融分野で人気の高いPythonを用いた分析方法について説明いたします。
+初心者でも様々な知見を獲得でき、金融データサイエンスに知見のある個人が金融分析に興味を持てるでしょう。
+
+本チュートリアルはSignateで展開されるコンペティションを補完する内容となっております。
+
+実行環境は Windows、Linux、macOS の各 OS に対応しています。
+
+ハンズオンで使うソースコード類は以下のウェブページで公開しています。
+
+[format="csv",cols="2,1"]
+[frame="topbot",grid="none"]
+|======
+チュートリアルドキュメント,https://github.com/xxxx
+ソースコード,https://github.com/xxxx
+Jupyterノートブック,https://github.com/xxxx
+|======
+
+本チュートリアルは、Asciidocにより作成されております。
+
+=== SIGNATE
+
+=== JQuants-API
+
